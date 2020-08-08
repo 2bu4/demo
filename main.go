@@ -236,5 +236,5 @@ func (s Student) String() string {
 }
 
 func main() {
-	fmt.Println("i")
+	fmt.Println("c")
 }
